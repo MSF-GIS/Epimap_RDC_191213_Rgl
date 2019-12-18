@@ -38,7 +38,7 @@
 	                    // temportal boundaries (timeMin, timeMax, defaultTime : INTERGER [defined] / STRING [default]) - Bound the temporal dimension : set a number for defined value, write a string for automatic value.
 	                    timeMin : 13,
 	                    timeMax : "",
-	                    defaultTime : "48",
+	                    defaultTime : "49",
 	                    // dimGeo (STRING) - Geographical dimension, usually 'p' codes. Joins to geometry.
 	                    dimGeo : "pcode",
 	                    // measure (STRING) - Includes the values recorded for a given dimTime (cases : t1, t2, t3, ...).
@@ -91,7 +91,7 @@
 	                        class4_between  :   {value : [61, 120],     color : "rgb(61,144,227)"},
 	                        class5_between  :   {value : [121, 200],    color : "rgb(32,114,214)"},
 							class6_between  :   {value : [201, 400],    color : "rgb(32,76,189)"},
-							class7_between  :   {value : [401, 900],    color : "rgb(25,44,168)"},
+							class7_between  :   {value : [401, 960],    color : "rgb(25,44,168)"},
 	                        class8_more     :   {value : 965,           color : "rgb(9,9,145)"}                   
 	                    }
 	                },
@@ -219,7 +219,7 @@
 			// Define layout components (all param : STRING) - Title, descriptions, etc...
 		    layout : {
 		        // appTitle - Set the title of the webmap.
-		        appTitle : "R.D.CONGO_Equateur_Situation epidemiologique de la rougeole par aire de santé dans zone de sante Basankusu _S13-S49_2019 ",
+		        appTitle : "R.D.CONGO_Equateur_Situation epidemiologique de la rougeole par aire de santé dans zone de sante Basankusu _S13-S50_2019 ",
 		        // analysisSectionTitle - Section title for analysis selector.
 		        analysisSectionTitle : "Analyse Epidemiologique",
 		        // analysisDescription - Description below analysis title (Use HTML tags for formatting).
