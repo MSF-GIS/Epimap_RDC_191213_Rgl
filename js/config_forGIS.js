@@ -1,4 +1,4 @@
-/* Configuration file - epiMap
+/* Configuration file - epiMap - BLABLABLABALABLA
  * Change the webmap' settings here, accordingly with the associated comments (lines starting with "//").
  * Please keep in mind that parameters are case-sensitives.
  */
