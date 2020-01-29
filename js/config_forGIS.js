@@ -87,8 +87,8 @@
 	                    classes : {
 	                        class1_less     :   {value : 10,             color : "rgb(182,237,240)"},
 	                        class2_between  :   {value : [10, 40],       color : "rgb(145,205,237)"},
-	                        class3_between  :   {value : [41, 60],      color : "rgb(107,174,232)"},
-	                        class4_between  :   {value : [61, 120],     color : "rgb(61,144,227)"},
+	                        class3_between  :   {value : [41, 61],      color : "rgb(107,174,232)"},
+	                        class4_between  :   {value : [62, 120],     color : "rgb(61,144,227)"},
 	                        class5_between  :   {value : [121, 200],    color : "rgb(32,114,214)"},
 							class6_between  :   {value : [201, 400],    color : "rgb(32,76,189)"},
 							class7_between  :   {value : [401, 960],    color : "rgb(25,44,168)"},
