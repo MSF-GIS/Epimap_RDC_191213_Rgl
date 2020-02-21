@@ -219,7 +219,7 @@
 			// Define layout components (all param : STRING) - Title, descriptions, etc...
 		    layout : {
 		        // appTitle - Set the title of the webmap.
-		        appTitle : "R.D.CONGO_Equateur_Situation epidemiologique de la rougeole par aire de santé dans zone de sante Basankusu _S13-2019-S05_2020 ",
+		        appTitle : "R.D.CONGO_Equateur_Situation epidemiologique de la rougeole par aire de santé dans zone de sante Basankusu _S13-2019-S07_2020 ",
 		        // analysisSectionTitle - Section title for analysis selector.
 		        analysisSectionTitle : "Analyse Epidemiologique",
 		        // analysisDescription - Description below analysis title (Use HTML tags for formatting).
